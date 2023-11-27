@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am very useful for you
 
 ## Connect with me:
-- [LinkedIn](https://linkedin.com/in/himanshu-parmar)
+- [LinkedIn](https://linkedin.com/in/himanshu-parmar-1901a4250)
 - [Instagram](https://instagram.com/himanshu.parmar_21204)
 
 ## Languages and Tools:
