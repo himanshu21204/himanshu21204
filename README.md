@@ -18,10 +18,8 @@
 - HTML5
 - Java
 - JavaScript
-- Linux
 - MongoDB
 - Microsoft SQL Server
-- MySQL
 
 ## GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparmar21&layout=compact)
