@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi 👋, I'm Himanshu Parmar
 
-<!--
-**himanshuparmar21/himanshuparmar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=himanshuparmar21&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structures**
+- 📫 How to reach me: [hkp21204@gmail.com](mailto:hkp21204@gmail.com)
+- ⚡ Fun fact: I am very useful for you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Structure + Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [LinkedIn](https://linkedin.com/in/himanshu-parmar)
+- [Instagram](https://instagram.com/himanshu.parmar_21204)
+
+## Languages and Tools:
+- Bootstrap
+- C
+- CSS3
+- Git
+- HTML5
+- Java
+- JavaScript
+- Linux
+- MongoDB
+- Microsoft SQL Server
+- MySQL
+
+## GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparmar21&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshuparmar21)
