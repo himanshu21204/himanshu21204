@@ -3,6 +3,11 @@
 <a href="https://github.com/himanshuparmar21">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Parmar;B.Tech+Student+%7C+Passionate;Data+Structure+Java" alt="Typing SVG" />
 </a>
+<br>
+<a href="https://github.com/Bhavya2004">
+    <img src="https://github-stats-alpha.vercel.app/api?username=himanshuparmar21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himanshuparmar21&label=Profile%20views&color=0e75b6&style=flat)
