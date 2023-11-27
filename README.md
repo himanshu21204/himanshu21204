@@ -1,7 +1,7 @@
 # Hi 👋, I'm Himanshu Parmar
 <p align="center">
 <a href="https://github.com/himanshuparmar21">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bhavya+Barai;Backend+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Parmar;B.Tech+Student+%7C+Passionate;Data+Structure+Java" alt="Typing SVG" />
 </a>
 
 
