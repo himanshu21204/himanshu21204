@@ -7,6 +7,7 @@
 <a href="https://github.com/Bhavya2004">
     <img src="https://github-stats-alpha.vercel.app/api?username=himanshuparmar21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuparmar21&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuparmar21" /> </p>
 
 - 🌱 I’m currently learning **Data Structure**
 
