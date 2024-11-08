@@ -17,7 +17,7 @@
 <h2> 💫 About Me:
 </h2><br>
 
-Hello! I am Himanshu Parmar, a Computer Science Student.<br><br>Learning ASP>Net Core,DSA,ML/AI<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
+Hello! I am Himanshu Parmar, a Computer Science Student.<br><br>Learning ASP.Net Core,DSA,ML/AI<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
