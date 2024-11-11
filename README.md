@@ -15,14 +15,14 @@
 <h2> 💫 About Me:
 </h2>
 
-Hello! I am Himanshu Parmar, a Computer Science Student.<br>Learning ASP>Net Core,DSA,ML/AI<br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
+Hello! I am Himanshu Parmar, a Computer Science Student.<br>Learning ASP.Net Core,DSA,ML/AI<br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
 
 <p align="center">
     <span style="font-size: 24px; color: gray;">━━━━━━━━━✦✧✦━━━━━━━━━</span>
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/himanshu_21204/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/himanshup21204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/himanshu__21204)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/himanshu_21204/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshup21204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/himanshu__21204)
 
 <p align="center">
     <span style="font-size: 24px; color: gray;">━━━━━━━━━✦✧✦━━━━━━━━━</span>
