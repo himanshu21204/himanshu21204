@@ -3,8 +3,8 @@
 <a href="https://github.com/himanshuparmar21">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Parmar;B.Tech CSE+Student;Data+Structures+%7C+Java+%7C+Python+%7C+MERN+Stack" alt="Typing SVG" />
 </a>
-<a href="https://github.com/himanshuparmar21">
-    <img src="https://github-stats-alpha.vercel.app/api?username=himanshuparmar21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/himanshu21204">
+    <img src="https://github-stats-alpha.vercel.app/api?username=himanshu21204&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
@@ -38,12 +38,12 @@ Hello! I am Himanshu Parmar, a Computer Science Student.<br>Learning ASP.Net Cor
 
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshuparmar21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=himanshuparmar21&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=himanshu21204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=himanshu21204&theme=tokyonight&hide_border=false)
 ![](https://leetcard.jacoblin.cool/himanshu21204?animation=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshuparmar21&theme=dracula) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparmar21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuparmar21&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu21204&theme=dracula) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu21204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu21204&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
 
 <p align="center">
     <span style="font-size: 24px; color: gray;">━━━━━━━━━✦✧✦━━━━━━━━━</span>
@@ -51,7 +51,7 @@ Hello! I am Himanshu Parmar, a Computer Science Student.<br>Learning ASP.Net Cor
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himanshuparmar21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=himanshu21204&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
     <span style="font-size: 24px; color: gray;">━━━━━━━━━✦✧✦━━━━━━━━━</span>
