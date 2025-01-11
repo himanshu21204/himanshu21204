@@ -11,6 +11,7 @@
 <p align="center">
     <span style="font-size: 24px; color: gray;">━━━━━━━━━✦✧✦━━━━━━━━━</span>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu21204&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu21204" /> </p>
 
 <h2> 💫 About Me:
 </h2>
