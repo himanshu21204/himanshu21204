@@ -1,8 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/himanshuparmar21">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Parmar;B.Tech CSE+Student;Data+Structures+%7C+Java+%7C+Python+%7C+MERN+Stack" alt="Typing SVG" />
-</a>
+
 <a href="https://github.com/himanshu21204">
     <img src="https://github-stats-alpha.vercel.app/api?username=himanshu21204&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
