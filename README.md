@@ -41,7 +41,6 @@ Hello! I am Himanshu Parmar, a Computer Science Student.<br>Learning ASP.Net Cor
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=himanshu21204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 [![](https://streak-stats.demolab.com/?user=himanshu21204)](https://git.io/streak-stats)
-![](https://leetcard.jacoblin.cool/himanshu21204?animation=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu21204&theme=dracula) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu21204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu21204&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
